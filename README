@@ -1,0 +1,3 @@
+Need rsync 3+
+use like:
+    ./ccopy.sh [SOURCE PATH] [TARGET PATH]
